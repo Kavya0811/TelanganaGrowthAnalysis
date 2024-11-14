@@ -1,5 +1,8 @@
 # TelanganaGrowthAnalysis
 I have built a dashboard in Power BI to analyze growth of various departments in telangana
+
+ link to
+[Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFlZDk1YzctNGU0Zi00OGYxLTg1YmMtMDRlZTM4Nzg4MTZhIiwidCI6ImE5OTM1ODY0LTEwYzMtNDJmMC1iMjg3LTZlMmM1YTBhYTYyNSJ9)
 # Objective
 My goal is provide valuable insights to telangana government. so that they can make data-driven decisions to boost state's growth.
 # task
